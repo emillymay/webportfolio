@@ -1,5 +1,5 @@
 //navbar.jsx
-import './navbar/navbar.css';
+import './navbar.css';
 
 const Navbar = () => {
     return (
